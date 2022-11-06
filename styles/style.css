@@ -1,9 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap');
+
  html{
     background:#2b2d2f;
     color:#fff;
-    font-family: 'Noto Nastaliq Urdu', serif;
     font-size:1rem;
     font-weight:normal;
     height:100%;
@@ -310,6 +308,11 @@ a:hover{
     to{
         stroke:#833ab4
     }
+}
+.skill a{
+    margin-left: 130px;
+    margin-right: 20px;
+    text-decoration: none;
 }
 #skills{
     align-items:center;
@@ -731,4 +734,4 @@ a:hover{
         bottom:0
     }
 }
- 
+ /*create by sobhan salari*/
