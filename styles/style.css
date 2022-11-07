@@ -57,7 +57,9 @@ a:hover{
     position:relative
 }
 .layout .card .subtitle{
-    text-align:center
+    text-align:center;
+    color: black;
+    font-size: 20px;
 }
 .layout .card .description{
     text-align:justify
