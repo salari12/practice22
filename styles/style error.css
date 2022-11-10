@@ -66,11 +66,12 @@
     text-align: center;
     color: #bcecf2;
     font-family: "Open Sans", sans-serif;
-    font-size: 16px;
+    font-size: 22px;
     font-weight: 400;
     line-height: 24px;
   }
   .bl_page404__wrapper {
+    flex-wrap: wrap;
     position: relative;
     width: 100%;
     margin: 10px auto 10px;
