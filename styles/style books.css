@@ -56,14 +56,15 @@ a {
   background-color: var(--color);
 }
 .blank{
-    color: white;
+    color: white; 
     text-align: center;
 }
 
 .second {
  background: violet;
+ flex-wrap: wrap;
   background-attachment: fixed;
-  height: 1200px;
+  height: 100%;
 }
 
 h3 {
