@@ -59,7 +59,9 @@ a {
     color: white; 
     text-align: center;
 }
-
+.address{
+  padding: 100px;
+}
 .second {
  background: violet;
  flex-wrap: wrap;
@@ -118,6 +120,7 @@ h3 {
   gap: 1.6em;
 }
 .back{
+  margin-bottom: 25px;
     display: inline-block;
     padding: 1em 3.5em;
     background: yellow;
