@@ -1,6 +1,6 @@
 
  html{
-    background:#2b2d2f;
+    background:#52a4f5;
     color:#fff;
     font-size:1rem;
     font-weight:normal;
@@ -47,7 +47,7 @@ a:hover{
     padding:0.5rem 0.5rem
 }
 .layout .card{
-    background:linear-gradient(145deg, rgba(115,115,115,0.15) 15%, #2b2d2f 80%);
+    background:linear-gradient(145deg, rgba(85, 119, 242, 0.15) 15%, #7c848b 80%);
     border-radius:2rem;
     margin:3rem 0;
     padding:1rem 2rem
@@ -65,7 +65,7 @@ a:hover{
     text-align:justify
 }
 .neumorphism-button{
-    background:linear-gradient(145deg, rgba(100,100,105,0.15) 15%, rgba(33,33,33,0.4) 80%);
+    background:linear-gradient(145deg, rgba(70, 70, 216, 0.15) 15%, rgba(199, 36, 36, 0.4) 80%);
     box-shadow:-4px -3px 2px 0 rgba(250,250,250,0.13),4px 4px 2px 0 rgba(0,0,0,0.4)
 }
 .neumorphism-card{
@@ -77,7 +77,7 @@ a:hover{
 }
 #preloader{
     align-items:center;
-    background:#2b2d2f;
+    background:#78b7f5;
     display:flex;
     height:100%;
     justify-content:center;
@@ -106,18 +106,18 @@ a:hover{
 }
 #preloader .load :first-child{
     animation-delay:-1.5s;
-    background:#fff
+    background:rgb(248, 1, 1)
 }
 #preloader .load :nth-child(2){
     animation-delay:-1s;
-    background:#ff073a
+    background:#073dff
 }
 #preloader .load :nth-child(3){
     animation-delay:-0.5s;
     background:#fff
 }
 #preloader .load :last-child{
-    background:#ff073a
+    background:#000000
 }
 @keyframes spin{
     0%,100%{
@@ -134,7 +134,7 @@ a:hover{
     }
 }
 .footer{
-    background:#2b2d2f;
+    background:#52a4f5;
     color:#fff;
     margin:0.5rem;
     padding:1rem;
@@ -149,7 +149,7 @@ a:hover{
     color:#fff
 }
 #landing{
-    background:#2b2d2f;
+    background:#52a4f5;
     color:#fff;
     display:flex;
     height:100%;
@@ -462,11 +462,13 @@ a:hover{
 .project{
     border-radius:1rem;
     margin:1rem 0;
-    padding:0.5rem 1rem
+    background: yellow;
+    padding:0.5rem 1rem;
+    color: black;
 }
 .project .name-link-wrapper{
     display:flex;
-    justify-content:space-between
+    justify-content:space-between;
 }
 .project .name-link-wrapper .links{
     font-size:1.5rem;
@@ -737,5 +739,12 @@ a:hover{
     100%{
         bottom:0
     }
+}
+.picemam{
+    width: 200px;
+}
+.endtazhib{
+    width: 200px;
+    margin-top: -70px;
 }
  /*create by sobhan salari*/
