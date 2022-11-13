@@ -134,7 +134,6 @@ a:hover{
     }
 }
 .footer{
-    background:#52a4f5;
     color:#fff;
     margin:0.5rem;
     padding:1rem;
@@ -475,7 +474,8 @@ a:hover{
     margin:1rem 0.5rem
 }
 .project-desc{
-    line-height:1rem
+    line-height:1rem;
+    color: rgb(32, 32, 232);
 }
 .project-stars-forks{
     fill:#fff;
@@ -749,6 +749,9 @@ a:hover{
 }
 .godname{
     height: 100px;
+    width: 100%;
+}
+.school{
     width: 100%;
 }
  /*create by sobhan salari*/
