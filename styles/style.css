@@ -475,6 +475,7 @@ a:hover{
 }
 .project-desc{
     line-height:1rem;
+    height: 50px;
     color: rgb(32, 32, 232);
 }
 .project-stars-forks{
@@ -754,4 +755,5 @@ a:hover{
 .school{
     width: 100%;
 }
+
  /*create by sobhan salari*/
