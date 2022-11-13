@@ -53,7 +53,7 @@ a {
 .other {
   width: 100%;
   min-height: 60vh;
-  background-color: var(--color);
+  background-color: steelblue;
 }
 .blank{
     color: white; 
@@ -131,4 +131,8 @@ h3 {
     font-weight: 700;
     letter-spacing: .5px;
     font-size: .875rem;
+}
+.titlehonar{
+  width: 100%;
+  height: auto;
 }
