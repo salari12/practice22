@@ -104,15 +104,15 @@ h3 {
 }
 
 .img-first {
-  background-image: url(../pic/images.jpg);
+  background-image: url(../pic/all\ book.jpg);
 }
 
 .img-second {
-  background-image: url(../pic/Kargah-NoAvari.jpg);
+  background-image: url(../pic/all\ book.jpg);
 }
 
 .img-third {
-  background-image: url(../pic/download.jpg);
+  background-image: url(../pic/all\ book.jpg);
 }
 
 .second {
@@ -137,7 +137,7 @@ h3 {
   height: auto;
 }
 .b1401{
-  background: yellow;
+  background: rgb(102, 103, 98);
   padding: 10px;
   border-radius: 20px;
 }
