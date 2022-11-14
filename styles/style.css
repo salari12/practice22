@@ -476,6 +476,7 @@ a:hover{
 .project-desc{
     line-height:1rem;
     height: 50px;
+    margin-top: 20px;
     color: rgb(32, 32, 232);
 }
 .project-stars-forks{
