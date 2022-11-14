@@ -31,6 +31,14 @@ const quizData = [
     d: "درصد10",
     correct: "b",
     },
+    {
+        question: "کدام درخت نماد صلح است؟ ",
+        a: "زیتون",
+        b: "گردو",
+        c: "بادام",
+        d: "سرو",
+        correct: "a",
+        },
     ];
     const quiz = document.getElementById("quiz");
     const answerElements = document.querySelectorAll(".answer");
