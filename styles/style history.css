@@ -39,5 +39,8 @@ body{
     text-align: center;
 }
 .poetry{
+    background: #D6E4E5;
+    font-weight: bold;
+    text-align: center;
     font-size: 20px;
 }
