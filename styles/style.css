@@ -64,7 +64,7 @@ a:hover{
 .layout .card .subtitle{
     text-align:center;
     color: black;
-    font-size: 15px;
+    font-size: 20px;
 }
 .layout .card .description{
     text-align:justify
@@ -78,6 +78,7 @@ a:hover{
     box-shadow:inset 2px 2px 4px #000,inset -2px -2px 4px #636363
 }
 .neumorphism-card-big{
+    font-size: 20px;
     box-shadow:5px 5px 4px #161718, -5px -5px 4px #404346
 }
 #preloader{
@@ -749,6 +750,7 @@ a:hover{
 }
 .picemam{
     width: 150px;
+    margin-top: -200px;
 }
 .endtazhib{
     width: 200px;
@@ -765,7 +767,6 @@ a:hover{
     padding: 20px;
 }
 .picarm{
-    width: 100%;
     margin-top: -200px;
     margin-bottom: 20px;
 }
