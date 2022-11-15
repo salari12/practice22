@@ -1,11 +1,16 @@
-
+@font-face {
+    font-family: myFirstFont;
+    src: url(./BKoodkBd.ttf);
+  }
+  
  html{
     background:#52a4f5;
     color:#fff;
-    font-size:1rem;
+    font-size:15px;
     font-weight:normal;
     height:100%;
-    overflow:hidden 
+    overflow:hidden ;
+    font-family: myFirstFont;
 }
 body{
     height:100%
@@ -59,7 +64,7 @@ a:hover{
 .layout .card .subtitle{
     text-align:center;
     color: black;
-    font-size: 20px;
+    font-size: 15px;
 }
 .layout .card .description{
     text-align:justify
@@ -743,7 +748,7 @@ a:hover{
     }
 }
 .picemam{
-    width: 200px;
+    width: 150px;
 }
 .endtazhib{
     width: 200px;
@@ -758,5 +763,14 @@ a:hover{
 .flag{
     width: 100px;
     padding: 20px;
+}
+.picarm{
+    width: 100%;
+    margin-top: -200px;
+    margin-bottom: 20px;
+}
+.schooll{
+    margin-top: -190px;
+    font-size: 20px;
 }
  /*create by sobhan salari*/
